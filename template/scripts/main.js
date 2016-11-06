@@ -20,7 +20,7 @@ function gcd(integerA, integerB){
   while(i <= end){
     let amariA = integerA % i ; 
     let amariB = integerB % i ;  
-    if (amariA == 0 && amariB == 0); 
+    if (amariA == 0 && amariB == 0){
        result = i;
     }
     i = i + 1;
