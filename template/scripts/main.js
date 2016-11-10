@@ -4,7 +4,7 @@ function id(value){
 }
 
 
-//偶数と奇数の判定
+//偶数、奇数の判定
 function classifyInt(integer){
     let amari = integer % 2;
    if(amari == 0){
